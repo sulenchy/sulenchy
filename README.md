@@ -1,7 +1,7 @@
 ### Hi there 👋
-Hi, I am Abudu Abiodun. You can call me sulenchy. I am a software engineer. I'm an employee of Andela currently open for job opportunity. I love building apps, getting things better using code, automation of business processes and making researches.
+Hi, I am Abudu Abiodun. You can call me sulenchy. I am a software engineer. I'm an employee of Andela currently open for Frontend Engineer job opportunities. I love building apps, getting things better using code, automation of business processes and making researches.
 
-- 🔭 I’m currently working on my personal Portfolio and MyDiary(A react redux app I built sometime ago. Just discovered that there is a pending bug in the login feature)
+- 🔭 I’m currently working on my personal Portfolio.
 - 🌱 I’m currently learning and looking forward to build something with `NextJS`.
 - 💬  Ask me more about anything via email at [here](mailto:sulaimanabiodun172@gmail.com@gmail.com?subject=I%20want%20to%20work%20with%20you&body=Please%20tell%20more%20about%20yourself)
 - See my portfolio [here](http://bit.ly/awesome-sulenchy)
