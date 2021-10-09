@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, I am Abudu Abiodun. You can call me Abi. I am a software engineer. I'm an employee of Andela currently open for Frontend Engineer job opportunities. I love building apps, getting things better using code, automation of business processes and making researches.
+Hi, I am Abudu Abiodun. You can call me Abi. I am a software engineer. I'm an employee of Andela currently open to Frontend Engineer job opportunities. I love building apps, getting things better using code, automation of business processes and making researches.
 
 - 🔭 I’m currently tying out a project called [MyDiary](https://github.com/sulenchy/MyDiary-React-Redux).
 - 🌱 I’m currently learning and looking forward to build something with `NextJS`.
