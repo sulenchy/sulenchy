@@ -9,7 +9,7 @@ I’m always open to new opportunities—especially those that challenge me to l
 - 🔭 Currently teaching at **Noroff School of Technology and Digital Media** and building personal projects.  
 - 🌱 Looking to collaborate on exciting projects within and beyond my current skill set.  
 - 💬 Let’s connect! Reach me via [email](mailto:sulaimanabiodun172@gmail.com?subject=Let’s%20Collaborate&body=Hi%20Abiodun,%20I’d%20like%20to%20connect%20with%20you).  
-- 🌐 Check out my [portfolio](https://abi-dev.netlify.app/) for more about my work.
+- 🌐 Check out my [portfolio](https://abi-dev.onrender.com/) for more about my work.
 
 ---
 
